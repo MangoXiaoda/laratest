@@ -46,5 +46,9 @@ class PagesController extends Controller
     {
 
     }
-    //
+
+    public function root7()
+    {
+
+    }
 }
