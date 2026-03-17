@@ -98,6 +98,11 @@ class Controller extends BaseController
 
     public function test19()
     {
-        
+
+    }
+
+    public function test20()
+    {
+
     }
 }
