@@ -75,4 +75,9 @@ class Controller extends BaseController
     {
 
     }
+
+    public function test15()
+    {
+
+    }
 }
