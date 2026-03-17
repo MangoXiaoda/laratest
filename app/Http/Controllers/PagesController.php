@@ -21,4 +21,14 @@ class PagesController extends Controller
     {
 
     }
+
+    public function root33()
+    {
+
+    }
+
+    public function root333()
+    {
+
+    }
 }
