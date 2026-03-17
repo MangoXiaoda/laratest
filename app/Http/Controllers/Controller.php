@@ -41,4 +41,9 @@ class Controller extends BaseController
 
     }
 
+    public function test7()
+    {
+
+    }
+
 }
