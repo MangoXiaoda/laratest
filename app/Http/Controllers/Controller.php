@@ -16,4 +16,19 @@ class Controller extends BaseController
 
     }
 
+    public function test2()
+    {
+
+    }
+
+    public function test3()
+    {
+
+    }
+
+    public function test4()
+    {
+
+    }
+
 }
