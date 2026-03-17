@@ -11,4 +11,14 @@ class PagesController extends Controller
     {
         return view('pages.root');
     }
+
+    public function root1()
+    {
+
+    }
+
+    public function root2()
+    {
+
+    }
 }
